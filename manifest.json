@@ -1,0 +1,19 @@
+{
+  "name": "McLuck",
+  "short_name": "McLuck",
+  "theme_color": "",
+  "background_color": "#0d0d0d",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1778854047-favicon-98.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
